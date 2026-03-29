@@ -15,7 +15,7 @@ Before this course, I had no prior knowledge of cybersecurity. This course provi
 ---
 
 ## 📜 Certificate of Completion
-![Harvard Cybersecurity Certificate](link-to-your-certificate-image)
+![Harvard Cybersecurity Certificate](Screenshot_20260329_113025_Chrome.jpg)
 
 ---
 
