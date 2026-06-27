@@ -40,7 +40,7 @@ The repository contains notes, explanations, and concepts learned throughout the
 
 # Section 2 — Securing Data
 
-(Add Section 2 here)
+(https://github.com/Ibrahim7346/Introduction-to-Cybersecurity-Harvard-EDX/blob/main/Section%202%20-%20Securing%20Data)
 
 ---
 
