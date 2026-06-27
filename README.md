@@ -58,7 +58,7 @@ The repository contains notes, explanations, and concepts learned throughout the
 
 # Section 5 — Preserving Privacy
 
-(Add Section 5 here)
+(https://github.com/Ibrahim7346/Introduction-to-Cybersecurity-Harvard-EDX/blob/main/Section%205%20-%20Preserving%20Privacy)
 
 ---
 
