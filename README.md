@@ -10,7 +10,7 @@ Status
 ## Certificate & Course
 
 🎓 Certificate:  
-[https://github.com/Ibrahim7346/Introduction-to-Cybersecurity-Harvard-EDX/blob/main/CS50%20Cybersecurity.png]
+[CS50 Cybersecurity.png]
 
 📚 Course:  
 https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity
