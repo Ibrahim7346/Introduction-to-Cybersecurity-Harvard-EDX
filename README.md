@@ -34,7 +34,7 @@ The repository contains notes, explanations, and concepts learned throughout the
 
 # Section 1 — Securing Accounts
 
-(Add Section 1 here)
+(Section 1 - Securing Accounts)
 
 ---
 
