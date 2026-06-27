@@ -46,7 +46,7 @@ The repository contains notes, explanations, and concepts learned throughout the
 
 # Section 3 — Securing Systems
 
-(Add Section 3 here)
+(https://github.com/Ibrahim7346/Introduction-to-Cybersecurity-Harvard-EDX/blob/main/Section%203%20-%20Securing%20System)
 
 ---
 
