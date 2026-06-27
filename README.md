@@ -10,7 +10,7 @@ Status
 ## Certificate & Course
 
 🎓 Certificate:  
-[CS50 Cybersecurity.png]
+![Certicate](./CS50%20Cybersecurity.png)
 
 📚 Course:  
 https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity
