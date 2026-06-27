@@ -52,7 +52,7 @@ The repository contains notes, explanations, and concepts learned throughout the
 
 # Section 4 — Securing Software
 
-(Add Section 4 here)
+(https://github.com/Ibrahim7346/Introduction-to-Cybersecurity-Harvard-EDX/blob/main/Section%204%20-%20Securing%20Software)
 
 ---
 
